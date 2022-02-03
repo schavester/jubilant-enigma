@@ -21,7 +21,7 @@ Rather, I'm here to show you what's going away. The premise of this blog is simp
 
 Here is 154 South Occidental Blvd. It was built in 1923.
 
-![](/v1643859979/Screen-Shot-2019-08-25-at-11.34.11-AM-1-1024x711_urc0cf.jpg)
+![](/c_scale,w_auto:100,dpr_auto,f_auto/Screen-Shot-2019-08-25-at-11.34.11-AM-1-1024x711_urc0cf)
 
 _Records show the living room had to be enlarged in 1937 to accommodate the installation of a pipe organ._
 
