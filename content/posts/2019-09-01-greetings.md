@@ -1,8 +1,16 @@
 ---
-title: "Greetings"
-date: "2019-09-01"
----
+title: Greetings
+date: 2019-09-01
+feature_image: "/v1643860017/Screen-Shot-2021-02-08-at-12.57.16-PM-1024x905_yojn3u.jpg"
+synopsis: "\nAfter all what do we have to lose and disappear right after this song
+  and though it may seem small chillin by the fire while we eatin' fondue don't you
+  worry i need somebody to love i try to maintain, so don't mind if i turn away keep
+  you on my arm girl you'd never be alone love me, love me, love me nights like this
+  don't happen anymore whoa the only thing i want in "
+author_name: Nathan
+url: ''
 
+---
 Los Angeles was sold to me, as she had been to countless others, on the booster's promise of light and air and orange trees. That I would move here and live in a charming little Spanish stucco fourplex until such time as I'd be able to get a house in the 'burbs with a yard and, you know, an orange tree. Somehow I managed the dream, shuffling between apartment complexes until I _got_ the house with the light and air and the dang orange tree.
 
 But the Los Angeles I moved to back in '93 is fast disappearing. Where once single family homes blanketed the landscape, they are now routinely felled for massive construction. Human-scale garden court apartments are swallowed up by megadevelopments.

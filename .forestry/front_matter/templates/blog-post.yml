@@ -33,3 +33,5 @@ fields:
     required: false
   label: Author Name
   description: What is your name
+pages:
+- content/posts/2019-09-01-greetings.md
