@@ -1,52 +1,54 @@
-{{ "<!-- navigation -->" | safeHTML }}
-<header class="fixed-top navigation">
-  <div class="container">
-    <!-- navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
-      <a class="navbar-brand"href="{{ .Site.BaseURL }}"><img class="img-fluid" src="{{ .Site.Params.logo | relURL }}" alt="{{ .Site.Title }}"></a>
-      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
-        <i class="ti-menu h3"></i>
-      </button>
-
-      <div class="collapse navbar-collapse text-center" id="navigation">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="{{ .Site.BaseURL }}">{{ with .Site.Params.Home }} {{ . }} {{ end }}</a>
-          </li>
-          {{ range .Site.Menus.main }}
-            {{ if .HasChildren }}
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
-                aria-expanded="false">
-                {{ .Name }}
-              </a>
-              <div class="dropdown-menu">
-                {{ range .Children }}
-                <a class="dropdown-item" href="{{ .URL | absURL }}">{{ .Name }}</a>
-                {{ end }}
-              </div>
-            </li>
-            {{ else }}
-            <li class="nav-item">
-              <a class="nav-link" href="{{ .URL | absURL }}">{{ .Name }}</a>
-            </li>
-            {{ end }}
-          {{ end }}
-        </ul>
-        {{ if .Site.Params.search.enable }}
-        {{ "<!-- search -->" | safeHTML }}
-        <div class="search">
-          <button id="searchOpen" class="search-btn"><i class="ti-search"></i></button>
-          <div class="search-wrapper">
-            <form action="{{ `search` | absURL }}" class="h-100">
-              <input class="search-box px-4" id="search-query" name="s" type="search" placeholder="Type & Hit Enter...">
-            </form>
-            <button id="searchClose" class="search-close"><i class="ti-close text-dark"></i></button>
-          </div>
-        </div>
-        {{ end }}
-      </div>
-    </nav>
-  </div>
+<header>
+{{- if .Site.Params.Avatar }}
+<div id="avatar">
+<a href="{{ .Site.BaseURL }}"><img src="{{ relURL .Site.Params.Avatar }}" alt="{{ .Site.Title }}"></a>
+</div>
+{{- end }}
+<div id="titletext">
+{{- if .IsHome }}
+{{- if isset .Site.Params "subtitle" }}
+<h1 id="title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+{{- else }}
+<h1 id="titleonly"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+{{- end }}
+{{- else }}
+{{- if isset .Site.Params "subtitle" }}
+<h2 id="title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h2>
+{{- else }}
+<h2 id="titleonly"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h2>
+{{- end }}
+{{- end }}
+</div>
+{{- if isset .Site.Params "subtitle" }}
+<div id="title-description">
+<p id="subtitle">{{ .Site.Params.Subtitle | markdownify }}</p>
+{{- else }}
+<div id="title-social">
+{{- end }}
+{{- if isset .Site.Params "social" }}
+<div id="social">
+<nav><ul>
+{{- range $index, $key := .Site.Params.Social }}
+{{- if $key.url }}
+<li><a href="{{ relURL $key.url }}"><i title="{{ $key.name }}" class="icons {{ $key.icon }}"></i></a></li>
+{{- else }}
+<li><a href="{{ $key.cmd }}"><i title="{{ $key.name }}" class="icons {{ $key.icon }}"></i></a></li>
+{{- end }}
+{{- end }}
+<li><a><i title="Switch Dark Mode" class="dark-mode icons fas fa-moon"></i></a></li>
+</ul></nav>
+</div>
+{{- end }}
+</div>
+{{- if isset .Site.Menus "main" }}
+<div id="mainmenu">
+<nav>
+<ul>
+{{- range .Site.Menus.main }}
+<li><a href="{{ .URL }}">{{ .Name }}</a></li>
+{{- end }}
+</ul>
+</nav>
+</div>
+{{- end }}
 </header>
-{{ "<!-- /navigation -->" | safeHTML }}
