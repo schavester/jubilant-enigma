@@ -1,0 +1,35 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: url
+  label: url
+- name: feature_image
+  type: file
+  config:
+    maxSize: 64
+  label: Feature Image
+  description: Upload the Feature Image for the blog
+- name: synopsis
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Synopsis
+  description: 400 character summary of post
+- name: author_name
+  type: text
+  config:
+    required: false
+  label: Author Name
+  description: What is your name
