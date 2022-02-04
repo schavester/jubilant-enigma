@@ -1,5 +1,5 @@
 ---
-title: Greetings
+title: Testing Cloudinary Images
 date: 2022-02-02
 feature_image: "/blog/Burmah-White_veuhsz.jpg"
 synopsis: "Los Angeles was sold to me, as she had been to countless others, on the booster's promise of light and air and orange trees. That I would move here and live in a charming little Spanish stucco fourplex until such time as I'd be able to get a house in the 'burbs with a yard and, you know, an orange tree. Somehow I managed the dream, shuffling between apartment complexes until I _got_ the house with the light and air and the dang orange tree."
