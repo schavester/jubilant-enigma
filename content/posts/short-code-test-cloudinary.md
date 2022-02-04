@@ -14,7 +14,7 @@ url: ''
 ---
 Los Angeles was sold to me, as she had been to countless others, on the booster's promise of light and air and orange trees. That I would move here and live in a charming little Spanish stucco fourplex until such time as I'd be able to get a house in the 'burbs with a yard and, you know, an orange tree. Somehow I managed the dream, shuffling between apartment complexes until I _got_ the house with the light and air and the dang orange tree.
 
-![](https://res.cloudinary.com/chickenbutt/image/upload/w_auto,c_scale,f_auto,q_auto,dpr_auto/vibianas_hlclly)
+![](https://res.cloudinary.com/on-bunker-hill/image/upload/w_auto,c_scale,f_auto,q_auto,dpr_auto/blog/LATIMESBOMB_naeojy)
 
 154 is there behind the tree (also not long for this world). You can imagine the way in which a five-story building is going to change the neighborhood. Strictly speaking the developers are not _allowed_ to build that big but the City awarded them a zoning variance. Which is dubbed the friendly-sounding "density bonus." Basically, if you set aside 8% of your units for subsidized housing, and it's near a bus stop, local zoning gets thrown out the window. (That's simplifying matters grossly, but it's too early in the game to begin hashing out the Density Bonus program, or, more to the point, incentivizing entitlements under the Transit Oriented Communities Affordable Housing Incentive Program Guidelines.)
 
