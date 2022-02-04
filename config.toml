@@ -23,7 +23,7 @@ disqusShortname = "ink-demo"
 	subtitle = "Blogging Los Angeles One Demolition Permit At A Time"
 
 	# Optional 64x64 avatar image.
-	avatar = "/images/LOGO-RIP-USE-THIS.png"
+	avatar = "/images/RIP-LOGO-resizeimage.png"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
