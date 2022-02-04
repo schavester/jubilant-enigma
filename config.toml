@@ -10,8 +10,14 @@ pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+cloudinary_url = "https://res.cloudinary.com/on-bunker-hill/image/upload"
+
+
 googleAnalytics = "UA-123-45"
 disqusShortname = "ink-demo"
+
+
+
 
 [params]
 	subtitle = "Blogging Los Angeles One Demolition Permit At A Time"
@@ -21,7 +27,7 @@ disqusShortname = "ink-demo"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
-	
+
 	featherIconsCDN = true
 
 	mode = "auto" # "dark" or "auto"
@@ -63,6 +69,6 @@ url = "/index.xml"
 
 [taxonomies]
    tag = "tags"
-   
+
 [permalinks]
-posts = "/:slug/"   
+posts = "/:slug/"
