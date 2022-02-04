@@ -35,3 +35,5 @@ fields:
   description: What is your name
 pages:
 - content/posts/2019-09-01-greetings.md
+- content/posts/test-1.md
+- content/posts/test.md
