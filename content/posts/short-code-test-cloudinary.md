@@ -1,6 +1,6 @@
 ---
 title: Testing Cloudinary Images
-date: 2022-02-02
+date: 2022-02-03T01:00:00+00:00
 feature_image: "/blog/Burmah-White_veuhsz.jpg"
 synopsis: Los Angeles was sold to me, as she had been to countless others, on the
   booster's promise of light and air and orange trees. That I would move here and
