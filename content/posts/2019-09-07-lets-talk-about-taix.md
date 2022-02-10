@@ -7,12 +7,11 @@ Dude, seriously, anyone who isn't instantly charmed by its Norman-Tudor village 
 
 ![](https://res.cloudinary.com/chickenbutt/image/upload/f_auto,q_auto/v1643859964/a8b48-screen-shot-2019-08-24-at-6.38.36-pm-1_yo54z7.jpg)
 
-_More than just a shadow encroaching; that's doom.  
-_[_Pinterest_](https://i.pinimg.com/originals/f8/fc/61/f8fc61dbfb16a0b039b7207fcad247a0.jpg)
+> More than just a shadow encroaching; that's doom. [Pinterest](https://i.pinimg.com/originals/f8/fc/61/f8fc61dbfb16a0b039b7207fcad247a0.jpg)
 
 Taix Restaurant, at 1911 West Sunset, has not had her demo permit pulled.
 
-Yet. But it will happen. As [recently reported](https://www.theeastsiderla.com/eastsider_on_the_go/restaurants_and_bars/echo-park-s-taix-french-restaurant-to-become-part-of/article_19af5e40-c4fc-11e9-8693-bbe93bc2e642.html#utm_campaign=blox&utm_source=twitter&utm_medium=social), Taix is not long for this world.
+Yet. But it will happen. As [recently reported](https://www.theeastsiderla.com/eastsider_on_the_go/restaurants_and_bars/echo-park-s-taix-french-restaurant-to-become-part-of/article_19af5e40-c4fc-11e9-8693-bbe93bc2e642.html#utm_campaign=blox&utm_source=twitter&utm_medium=social, Taix is not long for this world.
 
 Curbed readers, being Curbed readers, reacted as Curbed readers generally do.
 
