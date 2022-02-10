@@ -36,8 +36,7 @@ So recently lost are 4847 (51) , 4843 (52) , 4837 (53), and 4833 (54) Oakwood, f
 
 ![](https://res.cloudinary.com/chickenbutt/image/upload/f_auto,q_auto/v1643859980/Screen-Shot-2019-09-06-at-7.37.26-PM-1024x640_vfmdti.jpg)
 
-_Look, I'm not an eco guy, I'm a building guy. But aren't the folks who, really, really like trees upset that developers are ripping up and destroying all the trees in Los Angeles? Shouldn't the knowledge of that be, you know, a_ thing_?_ Hey tree people you're losing your canopy.  
-_Oh, and 4847 Oakwood was apparently built before 1905, because no building records exist of it._
+_Look, I'm not an eco guy, I'm a building guy. But aren't the folks who, really, really like trees upset that developers are ripping up and destroying all the trees in Los Angeles? Shouldn't the knowledge of that be, you know, a *thing*? Hey tree people you're losing your canopy. Oh, and 4847 Oakwood was apparently built before 1905, because no building records exist of it._
 
 ![](https://res.cloudinary.com/chickenbutt/image/upload/f_auto,q_auto/v1643859980/Screen-Shot-2019-09-06-at-8.34.44-PM-1024x521_oblygx.jpg)
 
