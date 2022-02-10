@@ -2,7 +2,6 @@
 title: "Let's Talk About Taix"
 date: "2019-09-07"
 description: "Full disclosure: I dig Taix the most. In fact, when installed as president of Burbank Shrine Club, I angled to have my installation held at Taix rather than in Burbank, because why wouldn't I?
-
 Dude, seriously, anyone who isn't instantly charmed by its Norman-Tudor village vernacular has a dead soul. The most common negative epithet hurled by the Curbed Class is "well if preservationists like it so much why don't they give it business?!" (a whole twelve disingenuous points below "well if you love it so much why don't you buy it?") and the answer is we do give it business, you sad, sad, little men."
 ---
 
