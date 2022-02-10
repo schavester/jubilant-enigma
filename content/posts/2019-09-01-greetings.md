@@ -27,7 +27,7 @@ _Records show the living room had to be enlarged in 1937 to accommodate the inst
 
 154 is being replaced by a five-story, thirty-six unit project.
 
-![](/c_scale,w_auto:100,dpr_auto,f_auto/Screen-Shot-2019-08-25-at-11.33.13-AM-1-1024x507_khejss)
+![](/c_scale,w_auto:100,dpr_auto,f_auto/v1643859979/Screen-Shot-2019-08-25-at-11.33.13-AM-1-1024x507_khejss)
 
 _Look at the roofline on its neighbor 160, built in 1920. Holy smokes._ _Is it next?_ _According to_ [_UrbanizeLA_](https://web.archive.org/web/20190901195541/https://urbanize.la/post/1920s-single-family-dwellings-could-make-way-apartments-westlake) _it is similarly doomed, but the_ [_plans_](http://planning.lacity.org/pdiscaseinfo/CaseId/MjMxNzUx0) _don't make mention of it. Seems like the folk at Urbanize got a fly in their ear at the TOC lobbyist bar._
 
