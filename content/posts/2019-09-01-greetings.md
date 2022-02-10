@@ -25,6 +25,7 @@ Here is 154 South Occidental Blvd. It was built in 1923.
 
 _Records show the living room had to be enlarged in 1937 to accommodate the installation of a pipe organ._
 
+
 154 is being replaced by a five-story, thirty-six unit project.
 
 ![](https://res.cloudinary.com/chickenbutt/image/upload/w_auto,c_scale,f_auto,q_auto:eco,dpr_auto/Screen-Shot-2019-08-25-at-11.33.13-AM-1-1024x507_khejss)
