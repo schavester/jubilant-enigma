@@ -1,11 +1,10 @@
 ---
 title: "Pacific Bowling Center/Dancing Waters Club, 1331 S. Pacific Ave."
 date: "2019-09-05"
-categories: 
-  - "commercial"
+description: "You're probably familiar with this one because it's right across the street from the Warner Grand. Dig that arched transom. Check out, too, Durr's 1923 one-story red brick commercial building at 717-19 South Pacific. Durr also designed many of the buildings in the Port of San Pedro."
 ---
 
-![](/images/88a92-dancing-waters-1940.jpg)
+![](https://res.cloudinary.com/chickenbutt/image/upload/c_scale,w_auto:100,dpr_auto,f_auto/88a92-dancing-waters-1940_zcdmtf)
 
 _Image courtesy Sid Penance's superb_ [_San Pedro Art Deco Flickr album_](https://www.flickr.com/photos/7398381@N04/albums/72157626784811946/)
 
@@ -13,35 +12,35 @@ A nice piece of San Pedro Streamline is going away. And with it, a big chunk of 
 
 1331 South Pacific Avenue began life as the brainchild of Nick Pericich. In 1940 Pericich hired local architect William F. Durr and spent $19,000 to build the ten-room Pacific Bowling Center. The most modern in the Harbor District!
 
-![](/images/Screen-Shot-2019-08-23-at-10.04.50-PM-1-828x1024.jpg)
+![](https://res.cloudinary.com/chickenbutt/image/upload/c_scale,w_auto:100,dpr_auto,f_auto/Screen-Shot-2019-08-23-at-10.04.50-PM-1-828x1024_y6uqgc)
 
 _San Pedro News Pilot, 2 November 1940_
 
-![](/images/dbeeb-screen-shot-2019-08-23-at-10.07.10-pm-1-1.jpg)
+![](/https://res.cloudinary.com/chickenbutt/image/upload/c_scale,w_auto:100,dpr_auto,f_auto/dbeeb-screen-shot-2019-08-23-at-10.07.10-pm-1-1_qygmn5)
 
 _San Pedro News Pilot, 4 November 1940_
 
 William F. Durr's largest commission was his grand American Legion Hall, now lost, at Tenth and Gaffey, from 1922. His best known extant work is surely the 1928 Brown Brothers stores and offices at 461 West Sixth:
 
-![](/images/Screen-Shot-2019-08-23-at-10.22.49-PM-1-1024x838.jpg)
+![](https://res.cloudinary.com/chickenbutt/image/upload/c_scale,w_auto:100,dpr_auto,f_auto/Screen-Shot-2019-08-23-at-10.22.49-PM-1-1024x838_foi3jv)
 
 _You're probably familiar with this one because it's right across the street from the Warner Grand. Dig that arched transom._ _Check out, too, Durr's 1923 one-story red brick commercial building at 717-19 South Pacific_. _Durr also designed many of the buildings in the Port of San Pedro._
 
-![](/images/bda62-screen-shot-2019-08-23-at-10.35.53-pm-1.jpg)
+![](https://res.cloudinary.com/chickenbutt/image/upload/c_scale,w_auto:100,dpr_auto,f_auto/bda62-screen-shot-2019-08-23-at-10.35.53-pm-1_fq0tev)
 
-![](/images/Screen-Shot-2019-08-23-at-7.05.46-PM-1-1024x686.jpg)
+![](https://res.cloudinary.com/chickenbutt/image/upload/c_scale,w_auto:100,dpr_auto,f_auto/Screen-Shot-2019-08-23-at-7.05.46-PM-1-1024x686_ctmibd)
 
 _As it is today, with its cool neon'd Streamline pylons_
 
 PBC remains a bowling alley for nearly thirty years. Then, records from 1969 indicate 1331 has a new owner, one Al Cordiero. He takes out a permit for _this_:
 
-![](/images/306bc-screen-shot-2019-08-23-at-7.56.29-pm-1.jpg)
+![](https://res.cloudinary.com/chickenbutt/image/upload/c_scale,w_auto:100,dpr_auto,f_auto/306bc-screen-shot-2019-08-23-at-7.56.29-pm-1_xurg9z)
 
 And, with that, it becomes a night club called the _Dancing Waters_.
 
 The club one of the most important venues in the South Bay. Here's an article about 1331 that doesn't get its early history exactly correct, but does tell us incredible stuff about the [bands that played there](https://www.setlist.fm/venue/waters-club-san-pedro-ca-usa-33d394d5.html?page=6).
 
-![](/images/3b5d2-screen-shot-2019-08-23-at-7.12.28-pm-1.jpg)
+![](https://res.cloudinary.com/chickenbutt/image/upload/c_scale,w_auto:100,dpr_auto,f_auto/3b5d2-screen-shot-2019-08-23-at-7.12.28-pm-1_vb1lwc)
 
 _From the Los Angeles Times, June 22 1995. Courtesy Proquest._
 
@@ -57,9 +56,9 @@ _Al Cordiero poses with the book 'bout Pedro Punk_ — _From [here](https://www.
 
 Besides being a cool South Bay place for norteño and hardcore gigs (e.g., [these](https://live.staticflickr.com/65535/48679708387_d2125e634c_o.jpg)) Dancing Waters also posed as Jake LaMotta's Club in the 1980 Scorcese picture _Raging Bull_:
 
-![](/images/cb1e7-jake-la-mottas.jpg)
+![](https://res.cloudinary.com/chickenbutt/image/upload/c_scale,w_auto:100,dpr_auto,f_auto/cb1e7-jake-la-mottas_di1q7j)
 
-![](/images/ea2a9-la-mottas-animated-neon-raging-bull.jpg)
+![](https://res.cloudinary.com/chickenbutt/image/upload/f_auto/v1643859968/cb1e7-jake-la-mottas_di1q7j.jpg)
 
 _You owe it to yourself to watch the movie if for no other reason than to go to 1:42:51 and see the animated neon waterfall in action_
 
@@ -67,17 +66,17 @@ Read some more interesting tidbits about Cordiero and his Dancing Waters [here](
 
 So why are we talking about it today? Because we here at R.I.P. Los Angeles look at permits. Here's one:
 
-![](/images/04088-screen-shot-2019-08-23-at-7.55.51-pm-1.jpg)
+![](https://res.cloudinary.com/chickenbutt/image/upload/f_auto/v1643859954/04088-screen-shot-2019-08-23-at-7.55.51-pm-1_lan4xm.jpg)
 
 So [SVN Vangaurd](https://svnvanguard.com/), they [marketed Pacific Bowl and the adjacent properties like so](http://images3.loopnet.com/d2/Ez6cQhhwZn6f3sL5tVC8d2M1U-awhnog9aQjcZf-TLc/document.pdf), in it saying hey, check it out, you can take this—
 
-![](/images/25b30-screen-shot-2019-08-23-at-8.14.02-pm-1.jpg)
+![](https://res.cloudinary.com/chickenbutt/image/upload/f_auto/v1643859941/25b30-screen-shot-2019-08-23-at-8.14.02-pm-1_rbtwq1.jpg)
 
 —and turn it into this:
 
-![](/images/Screen-Shot-2019-08-23-at-8.14.42-PM-1-1024x467.jpg)
+![](https://res.cloudinary.com/chickenbutt/image/upload/f_auto/v1643859975/Screen-Shot-2019-08-23-at-8.14.42-PM-1-1024x467_d5unhk.jpg)
 
-![](/images/screen-shot-2022-01-10-at-12.48.49-pm.jpg)
+![](https://res.cloudinary.com/chickenbutt/image/upload/f_auto/v1643860026/screen-shot-2022-01-10-at-12.48.49-pm_w17ddj.jpg)
 
 _Specifically, it will look like this_
 
@@ -85,9 +84,9 @@ Note in the permit they get a 37% "density bonus." That's what's known as a zoni
 
 While we're on the subject, this brick commercial structure two doors down at 1309 South Pacific, built in the fall of 1932, has some cool Deco detailing. It's part of the Vanguard plan. Pay your final respects when you get the chance.
 
-![](/images/Screen-Shot-2019-08-23-at-7.07.33-PM-1-1024x580.jpg)
+![](https://res.cloudinary.com/chickenbutt/image/upload/f_auto/v1643860026/screen-shot-2022-01-10-at-12.48.49-pm_w17ddj.jpg)
 
-![](/images/7e3e5-1309-pacific.jpg)
+![](https://res.cloudinary.com/chickenbutt/image/upload/f_auto/v1643859932/7e3e5-1309-pacific_njbgix.jpg)
 
 _Sid Penance via [Flickr](https://www.flickr.com/photos/7398381@N04/5749373191/in/album-72157626784811946/)_
 
